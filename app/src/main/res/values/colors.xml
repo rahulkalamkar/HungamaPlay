@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Light theme colors-->
+    <color name="light_theme_color_primary">#010101</color>
+    <color name="light_theme_color_primary_dark">#010101</color>
+    <color name="light_theme_color_accent">#0a6fb8</color>
+    <color name="light_theme_color_control_normal">#c7c5c5</color>
+    <color name="light_theme_color_control_activated">#0a6fb8</color>
+    <color name="light_theme_color_control_highlight">#72acd6</color>
+    <color name="switch_track_color">#979797</color>
+
+    <!-- Dark theme colors-->
+    <color name="dark_theme_color_primary">#fdfdfd</color>
+    <color name="dark_theme_color_accent">#0a6fb8</color>
+
+    <!-- Sign up spinner bg -->
+    <color name="color_spinner_item_bg_normal">#fdfdfd</color>
+    <color name="color_spinner_item_bg_selected">#c1fdfdfd</color>
+    <color name="color_spinner_item_bg_pressed">#8efdfdfd</color>
+
+    <color name="dialog_background_dark_theme">#BF000000</color>
+    <color name="dialog_background_light_theme">#BF000000</color>
+    <!-- Splash -->
+    <color name="background_color">#1c1c1c</color>
+</resources>

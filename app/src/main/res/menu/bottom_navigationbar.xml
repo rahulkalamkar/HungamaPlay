@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_movie"
+        android:icon="@mipmap/ic_movies"
+        android:title="Movie" />
+
+    <item
+        android:id="@+id/action_tv_show"
+        android:icon="@mipmap/ic_tv_show"
+        android:title="TV" />
+
+    <item
+        android:id="@+id/action_video"
+        android:icon="@mipmap/ic_music_video"
+        android:title="Video" />
+
+    <item
+        android:id="@+id/action_download"
+        android:icon="@mipmap/ic_downloads"
+        android:title="Download" />
+</menu>
